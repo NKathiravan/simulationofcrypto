@@ -1,6 +1,2 @@
 # simulationofcrypto
 
-
-
-#ssa
-ttt
